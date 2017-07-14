@@ -1,0 +1,122 @@
+.container-{
+	height: 600px;
+
+} 
+.container-fluid{
+    padding-left: 0px;
+	padding-right: 0px;
+}
+	
+header{
+		background-color: #4267b2;
+    	height: 30px;
+     }
+footer{
+		 overflow: auto;
+		 height: 30px;
+	 } 
+#wrapper{
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+
+#sidebar{
+	height: 600px;
+	background: #efefef;
+ background-color: #e9ebee;
+}
+
+#menu{
+	overflow: auto;
+	
+}
+#header{
+	background-color: #4267b2;
+	color: white;
+
+} 
+.white-text{
+color: white !important;
+}
+.btn-default{
+	margin-left: -43px;
+	border: none;
+}
+
+.list-heading{
+	margin-left: 15px;
+	margin-top: 20px;
+	
+}
+#muddit{
+	width: 500px;
+	margin-left: -14px;
+}
+.brandimage{
+	height: 28px;
+	width: 28px;
+	margin-top: -5px;
+}
+.Ayush{
+	color: black !important;
+
+}
+.panel-title .adf        /* in the status update section */ 
+{
+	margin-left: 5px;
+	margin-right: 3px;
+}
+.cdf{                             /* changng the colour to blue */
+	margin-left: 50px !important;
+	}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+.text-post {
+    margin-bottom: 15px;
+    margin-top: 0;
+}
+.status{                        /*for adding status*/
+	height: 30px;
+}
+#main-menu{
+	overflow: auto;
+}
+
+.nav-pills>li>a>.badge{
+	background: transparent;
+	color: black;
+	margin-left: 80px;
+	float: right;
+}
+.nav-stacked{
+	margin-left: 25px;
+}
+#menu::-webkit-scrollbar {
+    display: none;
+}
+	
+		
+.image-post{                     /* for making image post attractive */
+	margin-bottom: 15px;
+}
+
+.image-middle{                  /* for making space for like and share*/                  
+	margin-bottom: 10px;
+}
+
+#sidebar{
+	background: #efefef;
+	color: black;
+}
+body{
+	background: #efefef !important;
+	color: #1d2129n !important;
+}
+.cdm{                                 /* for makng status update tab  */
+height: 70px;
+font-size: 30px;
+border: none;
+}
+	
